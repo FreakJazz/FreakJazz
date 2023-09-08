@@ -2,7 +2,7 @@
 <img src='assets/eagle.svg' width='100'/>
 </p>
 <h1 align="center"> Hi! I'm Jazmin</h1>
-<h3 align="center"> Software and Electronic Engineer, Development, Designer and Devops</h3>
+<h3 align="center"> Software and Electronic Engineer | Developer | Designer | DevOps</h3>
 <h4 align="center">Responsable | Trustworthy | Resilience | Determined | Teamwork</h4>
 
 <p  align="center">
@@ -12,11 +12,11 @@ I am a highly skilled hardware and software developer with a strong background i
 
 ## ⚡️ Personal interests:
 
-- 🔭 I love to do research
-- 🎵 I love listening to music.
-- 🌱 I love the sound of nature and exploring new places
-- 🎸 My favorite hobby is playing the guitar
-- ☕ I love drink hot coffe in the morning
+- 🔭 I love conducting research.
+- 🎵 I am passionate about listening to music.
+- 🌱 I enjoy the soothing sounds of nature and exploring new places.
+- 🎸 My favorite hobby is playing the guitar.
+- ☕ I relish a cup of hot coffee in the morning.
 
 ## Skills:
 
