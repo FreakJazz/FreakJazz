@@ -33,7 +33,7 @@ I am a highly skilled hardware and software developer with a strong background i
 ![C#](https://img.shields.io/badge/-Csharp-%23593d88?style=flat-square&logo=Csharp&logoColor=white)
 ![.Net Core](https://img.shields.io/badge/-Core-%23593d88?style=flat-square&logo=Core&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23ffffff?style=flat-square&logo=python&logoColor=23FFCE5A)
-![Django](https://img.shields.io/badge/Django-%005571.svg?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23593d88.svg?style=flat-square&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/ORACLE-%23DD0031.svg?style=flat-square&logo=oracle&logoColor=white)
