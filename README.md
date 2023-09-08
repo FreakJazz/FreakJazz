@@ -1,4 +1,3 @@
-# FreakJazz
 <p align="center"> 
 <img src='assets/eagle.svg' width='100'/>
 </p>
