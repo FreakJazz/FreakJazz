@@ -11,7 +11,13 @@ I am a highly skilled hardware and software developer with a strong background i
 
 </p>
 
+## ⚡️ Personal interests:
 
+- 🔭 I love to do research
+- 🎵 I love listening to music.
+- 🌱 I love the sound of nature and exploring new places
+- 🎸 My favorite hobby is playing the guitar
+- ☕ I love drink hot coffe in the morning
 
 ## Skills:
 
@@ -61,5 +67,8 @@ I am a highly skilled hardware and software developer with a strong background i
 <a href="https://github.com/freakjazz"><img alt="Jazz's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=freakjazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/freakjazz"><img alt="Jazz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakjazz&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
+## Ask me a question
+
+📙 Check out my [Resume](https://www.linkedin.com/in/jazmin-rodriguez-bermeo/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
