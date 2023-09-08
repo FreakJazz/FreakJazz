@@ -6,6 +6,13 @@
 <h3 align="center"> Software and Electronic Engineer, Development, Designer and Devops</h3>
 <h4 align="center">Responsable | Trustworthy | Resilience | Determined | Teamwork</h4>
 
+<p  align="center">
+I am a highly skilled hardware and software developer with a strong background in full-stack programming, database design, and AWS server management. My expertise extends to creating and managing APIs, designing intuitive user interfaces, and developing graphical interface structures. I excel in building automated systems, implementing IoT solutions, and integrating cutting-edge technologies to enhance production processes continuously. My passion lies in applying the latest theories and models in the fields of electronics and automation to drive innovation and efficiency in every project I undertake
+
+</p>
+
+
+
 ## Skills:
 
 #### Frontend Stack
@@ -23,14 +30,14 @@
 
 #### Backend Stack
 
-![C#](https://img.shields.io/badge/-Csharp-%23ffffff?style=flat-square&logo=Csharp&logoColor=23FFCE5A)
-![.Net Core](https://img.shields.io/badge/-Core-%23ffffff?style=flat-square&logo=Core&logoColor=23FFCE5A)
+![C#](https://img.shields.io/badge/-Csharp-%23593d88?style=flat-square&logo=Csharp&logoColor=white)
+![.Net Core](https://img.shields.io/badge/-Core-%23593d88?style=flat-square&logo=Core&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%23ffffff?style=flat-square&logo=python&logoColor=23FFCE5A)
-![Django](https://img.shields.io/badge/Django-%23D00000.svg?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%005571.svg?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/ORACLE-%23DD0031.svg?style=flat-square&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -42,8 +49,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Heroku](https://img.shields.io/badge/-Heroku-%23ffffff?style=flat-square&logo=heroku&logoColor=000000)
-![Jupiter](https://img.shields.io/badge/-Jupiter-%23ffffff?style=flat-square&logo=jupiter&logoColor=000000)
+![Heroku](https://img.shields.io/badge/-Heroku-%23593d88?style=flat-square&logo=heroku&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
