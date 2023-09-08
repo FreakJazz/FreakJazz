@@ -55,3 +55,11 @@ I am a highly skilled hardware and software developer with a strong background i
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+
+## Github Stats:
+
+<a href="https://github.com/freakjazz"><img alt="Jazz's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=freakjazz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<a href="https://github.com/freakjazz"><img alt="Jazz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakjazz&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
