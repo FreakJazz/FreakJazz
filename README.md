@@ -98,13 +98,13 @@ I actively integrate **AI-powered tools** into my development workflow to optimi
 
 <p align="center">
   <img 
+    width="40%" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=freakjazz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180px"
   />
-
+  
   <img 
+    width="40%" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=freakjazz&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180px"
   />
 </p>
 
