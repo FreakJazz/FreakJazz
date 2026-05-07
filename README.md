@@ -97,8 +97,15 @@ I actively integrate **AI-powered tools** into my development workflow to optimi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freakjazz&show_icons=true&title_color=078DEE&icon_color=078DEE&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakjazz&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&title_color=078DEE&icon_color=078DEE&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" height="180px"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=freakjazz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180px"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=freakjazz&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180px"
+  />
 </p>
 
 ---
