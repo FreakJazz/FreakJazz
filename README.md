@@ -15,13 +15,14 @@
   <strong>📍 Location:</strong> Quito, Ecuador 🇪🇨 | <strong>💵 Rate:</strong> $15-25/hour
 </p>
 
-## ⚡️ Personal interests:
+## 🎯 Personal Interests
 
-- 🔭 I love conducting research.
-- 🎵 I am passionate about listening to music.
-- 🌱 I enjoy the soothing sounds of nature and exploring new places.
-- 🎸 My favorite hobby is playing the guitar.
-- ☕ I relish a cup of hot coffee in the morning.
+- 🔭 **Research & Innovation**: Passionate about exploring new technologies and conducting software engineering research
+- 🎵 **Music Enthusiast**: Love discovering new sounds, rhythms, and musical genres
+- 🌱 **Nature & Travel**: Enjoy hiking, exploring new places, and connecting with nature
+- 🎸 **Musician**: Play guitar and bass daily - it's my creative outlet and stress relief
+- ☕ **Coffee Lover**: Start every day with a good cup of coffee (or two!)
+- 📚 **Continuous Learning**: Always reading tech blogs, documentation, and taking online courses
 
 ---
 
@@ -256,17 +257,6 @@ To maintain a lean, performant codebase, the following modules from the original
 | 🇺🇸 **English**           | Advanced     | 70%   |
 | 🇷🇺 **Русский** (Russian) | Intermediate | 40%   |
 | 🇩🇪 **Deutsch** (German)  | Basic        | 10%   |
-
----
-
-## 🎯 Personal Interests
-
-- 🔭 **Research & Innovation**: Passionate about exploring new technologies and conducting software engineering research
-- 🎵 **Music Enthusiast**: Love discovering new sounds, rhythms, and musical genres
-- 🌱 **Nature & Travel**: Enjoy hiking, exploring new places, and connecting with nature
-- 🎸 **Musician**: Play guitar and bass daily - it's my creative outlet and stress relief
-- ☕ **Coffee Lover**: Start every day with a good cup of coffee (or two!)
-- 📚 **Continuous Learning**: Always reading tech blogs, documentation, and taking online courses
 
 ---
 
