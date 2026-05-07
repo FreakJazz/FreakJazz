@@ -262,12 +262,12 @@ To maintain a lean, performant codebase, the following modules from the original
 
 ## 📫 Get in Touch
 
-💼 **Open for**: Freelance Projects | Contract Work | Technical Consulting  
-💵 **Hourly Rate**: $15-25/hour  
-📧 **Email**: jazzrb2307@gmail.com  
-🌐 **Website**: [freakjazz.com](https://freakjazz.com)  
-💼 **LinkedIn**: [jazmin-rodriguez-bermeo](https://www.linkedin.com/in/jazmin-rodriguez-bermeo/)  
-🐙 **GitHub**: [@FreakJazz](https://github.com/FreakJazz)
+- 📧 **Email**: [jazzrb2307@gmail.com](mailto:jazzrb2307@gmail.com)
+- 🌐 **Website**: [freakjazz.com](https://freakjazz.com/)
+- 💼 **LinkedIn**: [jazmin-rodriguez-bermeo](https://www.linkedin.com/in/jazmin-rodriguez-bermeo/)
+- 🐙 **GitHub**: [FreakJazz](https://github.com/FreakJazz)
+- 🔬 **ORCID**: [0000-0003-0949-6172](https://orcid.org/0000-0003-0949-6172)
+- 📍 **Location**: Quito, Ecuador
 
 ---
 
@@ -279,18 +279,6 @@ To maintain a lean, performant codebase, the following modules from the original
 <p align="center">
   <sub>Last updated: May 7, 2026</sub>
 </p>
-- ☕ **Coffee**: I relish a cup (or two!) of hot coffee every morning or afternoon
-
----
-
-## 📧 Contact
-
-- 📧 **Email**: [jazzrb2307@gmail.com](mailto:jazzrb2307@gmail.com)
-- 🌐 **Website**: [freakjazz.com](https://freakjazz.com/)
-- 💼 **LinkedIn**: [jazmin-rodriguez-bermeo](https://www.linkedin.com/in/jazmin-rodriguez-bermeo/)
-- 🐙 **GitHub**: [FreakJazz](https://github.com/FreakJazz)
-- 🔬 **ORCID**: [0000-0003-0949-6172](https://orcid.org/0000-0003-0949-6172)
-- 📍 **Location**: Quito, Ecuador
 
 ---
 
